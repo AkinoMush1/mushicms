@@ -1,0 +1,13 @@
+{
+    "name": "Wx",
+    "alias": "wx",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Wx\\Providers\\WxServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
